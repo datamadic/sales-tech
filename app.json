@@ -1,0 +1,15 @@
+{
+    "startup_app": {
+        "uuid": "sales-tech",
+        "url": "file:///C:/Users/openfin/Documents/sales/index.html",
+        "autoShow": true
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "stable"
+    },
+    "shortcut": {
+        "name": "sales-tech",
+        "company": "sales"
+    }
+}
